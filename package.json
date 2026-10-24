@@ -1,0 +1,17 @@
+{
+  "name": "casestudy2-employee-dashboard",
+  "version": "1.0.0",
+  "description": "ICTAK Case Study 2 - Employee Dashboard Backend Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  },
+  "author": "Najva Mehabin E",
+  "license": "ISC"
+}
